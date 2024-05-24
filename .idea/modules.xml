@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/collections-java-api-2023.iml" filepath="$PROJECT_DIR$/collections-java-api-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsJava/list/list.iml" filepath="$PROJECT_DIR$/CollectionsJava/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsJava/set/set.iml" filepath="$PROJECT_DIR$/CollectionsJava/set/set.iml" />
     </modules>
   </component>
 </project>
